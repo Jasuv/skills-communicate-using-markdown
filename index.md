@@ -8,4 +8,7 @@
 var hello = "Hello, world!";
 ```
 
+- [x] Complete skills-introduction-to-github
+- [ ] Complete skills-communicate-using-markdown
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
